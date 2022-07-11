@@ -40,7 +40,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "ds_or_BitacoraCarrosHist",
+						"referenceName": "ds_or_llamadosHist",
 						"type": "DatasetReference"
 					}
 				],
@@ -96,7 +96,7 @@
 				},
 				"inputs": [
 					{
-						"referenceName": "ds_or_BitacoraCarrosAct",
+						"referenceName": "ds_or_llamadosAct",
 						"type": "DatasetReference"
 					}
 				],
