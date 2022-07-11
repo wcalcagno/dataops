@@ -3,7 +3,7 @@
 	"properties": {
 		"activities": [
 			{
-				"name": "Emergencias Historicas",
+				"name": "Det Emergencias Historicas",
 				"type": "Copy",
 				"dependsOn": [],
 				"policy": {
@@ -52,11 +52,11 @@
 				]
 			},
 			{
-				"name": "Emergencias Anno Actual",
+				"name": "Det Emergencias Anno Actual",
 				"type": "Copy",
 				"dependsOn": [
 					{
-						"activity": "Emergencias Historicas",
+						"activity": "Det Emergencias Historicas",
 						"dependencyConditions": [
 							"Succeeded"
 						]
