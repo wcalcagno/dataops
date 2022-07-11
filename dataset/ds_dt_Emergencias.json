@@ -10,7 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobFSLocation",
-				"fileName": "detalle_emergencias.parquet",
+				"fileName": "emergencias.parquet",
 				"folderPath": "sid",
 				"fileSystem": "landing"
 			},
