@@ -1,5 +1,5 @@
 {
-	"name": "Parquet1",
+	"name": "ds_dt_DetalleEmergencias",
 	"properties": {
 		"linkedServiceName": {
 			"referenceName": "DataLake",

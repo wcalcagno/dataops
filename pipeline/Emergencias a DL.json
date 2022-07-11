@@ -46,7 +46,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "Parquet1",
+						"referenceName": "ds_dt_DetalleEmergencias",
 						"type": "DatasetReference"
 					}
 				]
@@ -102,7 +102,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "Parquet1",
+						"referenceName": "ds_dt_DetalleEmergencias",
 						"type": "DatasetReference"
 					}
 				]
