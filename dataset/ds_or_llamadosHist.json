@@ -65,7 +65,7 @@
 		],
 		"typeProperties": {
 			"schema": "public",
-			"table": "res_tblbitacoracarros"
+			"table": "res_tblbitacoradireccion"
 		}
 	}
 }
