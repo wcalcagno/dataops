@@ -1,0 +1,71 @@
+{
+	"name": "ds_or_llamadosAct",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "Postgres",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "AzurePostgreSqlTable",
+		"schema": [
+			{
+				"name": "id",
+				"type": "integer",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "idmaterialmayor",
+				"type": "character",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "idclaveradial",
+				"type": "character",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "idconductor",
+				"type": "integer",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "numeroalarma",
+				"type": "integer",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "comentario",
+				"type": "character",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "fecha",
+				"type": "timestamp without time zone",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "estado",
+				"type": "integer",
+				"precision": 0,
+				"scale": 0
+			},
+			{
+				"name": "idusuario",
+				"type": "integer",
+				"precision": 0,
+				"scale": 0
+			}
+		],
+		"typeProperties": {
+			"schema": "public",
+			"table": "res_tblbitacoracarros"
+		}
+	}
+}
