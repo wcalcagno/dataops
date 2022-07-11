@@ -46,7 +46,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "ds_dt_DetalleEmergencias",
+						"referenceName": "ds_dt_Emergencias",
 						"type": "DatasetReference"
 					}
 				]
@@ -102,7 +102,7 @@
 				],
 				"outputs": [
 					{
-						"referenceName": "ds_dt_DetalleEmergencias",
+						"referenceName": "ds_dt_Emergencias",
 						"type": "DatasetReference"
 					}
 				]
