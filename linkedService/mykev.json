@@ -1,0 +1,10 @@
+{
+	"name": "mykev",
+	"properties": {
+		"annotations": [],
+		"type": "AzureKeyVault",
+		"typeProperties": {
+			"baseUrl": "https://kv4demowcl.vault.azure.net/"
+		}
+	}
+}
